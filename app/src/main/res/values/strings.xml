@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnePlus 6 Night Mode Bug</string>
+    <string name="start_wide_color_gamut_activity">Start wide color gamut activity</string>
+    <string name="enable_wide_color_gamut_mode">Enable wide color gamut mode</string>
+    <string name="disable_wide_color_gamut_mode">Disable wide color gamut mode</string>
+    <string name="title_activity_wide_color_gamut">WideColorGamutActivity</string>
+</resources>
